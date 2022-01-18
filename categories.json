@@ -1,0 +1,241 @@
+{
+    "italian": [{
+      "id": 1,
+      "name": "Oregano’s",
+      "rating": "4.8",
+      "eta": "10 - 15 mins",
+      "favourited": true,
+      "images": {
+        "cover": "assets/italian/origanos.jpg"
+      },
+      "meals": [
+        "dinner"
+      ],
+      "cousine": [
+        "italian"
+      ],
+      "priceRange": "$$",
+      "dietary": [
+        "healthy"
+      ],
+      "promotion": null,
+      "points" : 30
+    },
+      {
+        "id": 2,
+        "name": "Taste of Rome",
+        "rating": "4.8",
+        "eta": "15 - 20 mins",
+        "favourited": true,
+        "images": {
+          "cover": "assets/italian/taste-of-rome.png"
+        },
+        "meals": [
+          "lunch",
+          "dinner"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "budget",
+        "dietary": [
+          "vegan",
+          "healthy"
+        ],
+        "promotion": "Buy 1 get 1 free",
+        "points" : 20
+      },
+      {
+        "id": 3,
+        "name": "Joe's Place",
+        "rating": "4.3",
+        "eta": "20 - 30 mins",
+        "favourited": true,
+        "images": {
+          "cover": "assets/italian/joeys-place.png"
+        },
+        "meals": [
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "$",
+        "dietary": [
+          "vegan",
+          "gluten_free"
+        ],
+        "promotion": "Spend LKR 2000, save LKR 500",
+        "points" : 20
+      },
+      {
+        "id": 4,
+        "name": "The Pasta People",
+        "rating": "4.2",
+        "eta": "15 - 25 mins",
+        "favourited": false,
+        "images": {
+          "cover": "assets/italian/the-pasta-people.png"
+        },
+        "meals": [
+          "dinner"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "$$$",
+        "dietary": [
+          "vegan",
+          "gluten_free",
+          "healthy"
+        ],
+        "promotion": null,
+        "points" : 50
+      },
+      {
+        "id": 5,
+        "name": "Ti Amo, Pizza!",
+        "rating": "4.8",
+        "eta": "10 - 15 mins",
+        "favourited": false,
+        "images": {
+          "cover": "assets/italian/ti-amo-pizza.png"
+        },
+        "meals": [
+          "lunch",
+          "dinner"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "$$$",
+        "dietary": [
+          "vegan",
+          "gluten_free",
+          "healthy"
+        ],
+        "promotion": "Spend LKR 2000, save LKR 500",
+        "points" : 50
+      },
+      {
+        "id": 6,
+        "name": "The Italian Cousine",
+        "rating": "4.4",
+        "eta": "10 - 20 mins",
+        "favourited": false,
+        "images": {
+          "cover": "assets/italian/the-italian-cousine.png"
+        },
+        "meals": [
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "$$",
+        "dietary": [
+          "vegetarian",
+          "vegan"
+        ],
+        "promotion": null,
+        "points" : 40
+      },
+      {
+        "id": 7,
+        "name": "Magnolia Bakery",
+        "rating": "4.3",
+        "eta": "10 - 15 mins",
+        "favourited": false,
+        "images": {
+          "cover": "assets/italian/magnolia-bakery.png"
+        },
+        "meals": [
+          "breakfast"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "budget",
+        "dietary": [
+          "healthy"
+        ],
+        "promotion": null,
+        "points" : 10
+      },
+      {
+        "id": 8,
+        "name": "Olive Mate",
+        "rating": "4.6",
+        "eta": "10 - 15 mins",
+        "favourited": false,
+        "images": {
+          "cover": "assets/italian/lasagnaCover.jpg"
+        },
+        "meals": [
+          "breakfast"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "$$",
+        "dietary": [
+          "gluten_free"
+        ],
+        "promotion": null,
+        "points" : 30
+      },
+      {
+        "id": 9,
+        "name": "Tasty Bakery",
+        "rating": "4.6",
+        "eta": "10 - 15 mins",
+        "favourited": false,
+        "images": {
+          "cover": "assets/italian/tasty-bakery.png"
+        },
+        "meals": [
+          "breakfast"
+        ],
+        "cousine": [
+          "italian"
+        ],
+        "priceRange": "$$$",
+        "dietary": [
+          "healthy",
+          "gluten_free"
+        ],
+        "promotion": null,
+        "points" : 50
+      },
+      {
+        
+        "id": 10,
+        "name": "The American Breakfast",
+        "rating": "4.8",
+        "eta": "25 - 30 mins",
+        "favourited": true,
+        "images": {
+          "cover": "assets/italian/american-breakfast.jpg"
+        },
+        "meals": [
+          "breakfast"
+        ],
+        "cousine": [
+          "american"
+        ],
+        "priceRange": "$$",
+        "dietary": [
+          "vegan",
+          "gluten_free",
+          "healthy"
+        ],
+        "promotion": "Spend LKR 1500 get free Desserts",
+        "points" : 30
+      }
+    ]
+  }
+  
