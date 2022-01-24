@@ -177,14 +177,18 @@
         "cover": "assets/italian/lasagnaCover.jpg"
       },
       "meals": [
-        "breakfast"
+        "breakfast",
+        "lunch",
+        "dinner"
       ],
       "cousine": [
         "italian"
       ],
       "priceRange": "$$",
       "dietary": [
-        "gluten_free"
+        "vegan",
+        "gluten_free",
+        "healthy"
       ],
       "promotion": null,
       "points": 30
@@ -241,12 +245,36 @@
   "desserts": [
     {
       "id": 1,
-      "name": "The Cake Factory",
-      "rating": "4.9",
+      "name": "Dessert Land",
+      "rating": "4.7",
       "eta": "30 - 40 mins",
-      "favourited": true,
+      "favourited": false,
       "images": {
         "cover": "assets/desserts/dessert land.jpg"
+      },
+      "meals": [
+        "breakfast"
+      ],
+      "cousine": [
+        "common"
+      ],
+      "priceRange": "$$",
+      "dietary": [
+        "gluten_free",
+        "healthy"
+      ],
+      "promotion": "Spend LKR 2000 get 1 free",
+      "points": 30
+    },
+
+    {
+      "id": 2,
+      "name": "The Carnival",
+      "rating": "4.7",
+      "eta": "10 - 20 mins",
+      "favourited": false,
+      "images": {
+        "cover": "assets/desserts/The_carnival.jpg"
       },
       "meals": [
         "breakfast"
@@ -256,11 +284,31 @@
       ],
       "priceRange": "$$",
       "dietary": [
-        "vegan",
-        "gluten_free",
-        "healthy"
       ],
-      "promotion": "Spend LKR 1500 get free Desserts",
+      "promotion": null,
+      "points": 30
+    },
+
+    {
+      "id": 2,
+      "name": "The Cake Factory",
+      "rating": "4.9",
+      "eta": "15 - 25 mins",
+      "favourited": false,
+      "images": {
+        "cover": "assets/desserts/The_cake_factory.jpg"
+      },
+      "meals": [
+        "breakfast",
+        "dinner"
+      ],
+      "cousine": [
+        "common"
+      ],
+      "priceRange": "$$",
+      "dietary": [
+      ],
+      "promotion": null,
       "points": 30
     }
   ]
