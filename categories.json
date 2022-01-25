@@ -41,7 +41,8 @@
       "priceRange": "budget",
       "dietary": [
         "vegan",
-        "healthy"
+        "healthy",
+        "gluten_free"
       ],
       "promotion": "Buy 1 get 1 free",
       "points": 20
@@ -140,6 +141,7 @@
       "priceRange": "$$",
       "dietary": [
         "vegetarian",
+        "gluten_free",
         "vegan"
       ],
       "promotion": null,
@@ -162,7 +164,8 @@
       ],
       "priceRange": "budget",
       "dietary": [
-        "healthy"
+        "healthy",
+        "gluten_free"
       ],
       "promotion": null,
       "points": 10
@@ -266,7 +269,6 @@
       "promotion": "Spend LKR 2000 get 1 free",
       "points": 30
     },
-
     {
       "id": 2,
       "name": "The Carnival",
@@ -288,7 +290,6 @@
       "promotion": null,
       "points": 30
     },
-
     {
       "id": 3,
       "name": "The Cake Factory",
